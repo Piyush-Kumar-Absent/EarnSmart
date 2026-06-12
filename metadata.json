@@ -1,0 +1,6 @@
+{
+  "name": "EarnSmart",
+  "description": "A decentralized laboratory and guide sharing platform for student side-hustle money moves and financial experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
